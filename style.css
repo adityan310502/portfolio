@@ -1,0 +1,155 @@
+body {
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+}
+
+
+
+img {
+    height: 30vh;
+    width: 30vh;
+    padding-top: 10px;
+
+
+}
+
+.imga {
+    text-align: center;
+}
+
+.name {
+    margin-top: 10px;
+    padding-top: 10px;
+    border: 3px double white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.skills {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.name p {
+    color: azure;
+    font-weight: 200;
+}
+
+.project {
+    margin: 40px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.proj1 {
+    font-family: 'Roboto', sans-serif;
+    border: 3px solid white;
+    height: 60px;
+    padding: 5px;
+    margin: 25px;
+    color: azure;
+
+}
+
+.proj2 {
+    font-family: 'Roboto', sans-serif;
+    border: 3px solid white;
+    height: 60px;
+    padding: 5px;
+    margin: 25px;
+    color: azure;
+}
+
+.proj3 {
+    font-family: 'Roboto', sans-serif;
+    border: 3px solid white;
+    height: 60px;
+    padding: 5px;
+    margin: 25px;
+    color: azure;
+}
+
+.proj4 {
+    font-family: 'Roboto', sans-serif;
+    border: 3px solid white;
+    height: 60px;
+    padding: 5px;
+    margin: 25px;
+}
+
+.contact {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border: 2px solid white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border: 2px solid white;
+}
+
+.fa-whatsapp {
+    background: green;
+    color: white;
+    border: 2px solid white;
+}
+
+.skill {
+    height: 100px;
+    border: 3px solid white;
+}
+
+.but {
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+}
+
+.skill {
+    display: flex;
+    flex-wrap: nowrap;
+
+
+
+}
+
+.fa-instagram {
+    background: palevioletred;
+    color: white;
+    border: 2px solid white;
+}
+
+.fa-linkedin-square {
+    background: #3B5998;
+    color: white;
+    border: 2px solid white;
+}
